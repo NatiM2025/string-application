@@ -7,5 +7,6 @@ public class Receipt {
         int quantity = 3;
 
         System.out.println("You bought:" + quantity + " "+ item + " for:$" + price);
+
     }
 }
